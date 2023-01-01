@@ -1,0 +1,1 @@
+# ts-slack-bot-template
